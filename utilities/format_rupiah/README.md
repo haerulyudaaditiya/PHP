@@ -9,3 +9,4 @@ require_once 'format_rupiah.php';
 
 $harga = 50000;
 echo format_rupiah($harga); // Output: Rp 50.000
+```
